@@ -13,5 +13,8 @@
 	<classpathentry kind="lib" path="C:/Users/Dianne/Downloads/hamcrest-core-1.2.jar/hamcrest-core-1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dianne/Downloads/h2.jar/h2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dianne/Downloads/hamcrest-all-1.0.jar/hamcrest-all-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dianne/Downloads/org.eclipse.jdt.core-3.7.1.jar/org.eclipse.jdt.core-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dianne/Downloads/org.eclipse.jst.jee_1.0.401.v201105122000.jar/org.eclipse.jst.jee_1.0.401.v201105122000.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dianne/Downloads/org.eclipse.m2e.logback.appender_1.0.100.20110804-1717.jar/org.eclipse.m2e.logback.appender_1.0.100.20110804-1717.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
